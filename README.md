@@ -14,3 +14,8 @@ I am a student at Upgrad School of Technology, currently learning Git and GitHub
 
 ## Contact
 - Email: amishchaudhary0819@gmail.com
+
+## Hobbies
+- Playing Chess
+- Listening and Singing Songs
+
